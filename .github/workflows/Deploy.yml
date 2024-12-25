@@ -26,6 +26,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
+ Session_Id:  VAJIRA-MD=ScUmiKxI#oFlkmF3Lnnd1bNWEHuyzjOFiQv0-Fw4WnjkgvVxDzvw
+
     - name: Install dependencies
       run: npm install
 
